@@ -36,6 +36,9 @@
      "isAntiLink": "true",
      "isAntiBad": "true"
     },
+    "premium": {
+    "isMovieDlPaid":"OTQ3MjM2NzI5OTl8MjAyNS0wMi0wNQ=="
+    },
     "others": {
      "isStatusSeen": "true",
      "isMsgRead": "true"
