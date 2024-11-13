@@ -1,1 +1,52 @@
 
+{
+  "TEAM": "CYBERKILLERSTEAM",
+  "FOUNDER & ADMIN": "Isuru Chamika",
+  "ADMIN": "Tharusha Kavindya",
+  "SINCE": "2022",
+  "Bot-Name": "DIMENSION-X",
+  "botVersion": "1.0.0",
+  "Bot-Developer": "Isuru Chamika",
+
+  "Msgdb": {
+    "jointitleandqualitydl": "with Sinhala Subtitles | ",
+    "footer": "> *Pᴏᴡᴇʀᴇᴅ By Dɪᴍᴇɴꜱɪᴏɴ - X*",
+    "botname": "DIMENSION-X",
+    "megaerr": "*Sorry I can't send this type documents*",
+    "downloadusinglink": "*Please download using following link*",
+    "dllink": "Link:",
+    "connectmg": "*DIMENSION-X | BOT CONNECTED !*",
+    "restartmg": "```Restarting...!```",
+    "systemhead": "*DIMENSION-X | SYSTEM INFO*",
+    "onlyowner": "This cmd is only for bot owner!!",
+    "onlygroup": "This cmd is only for grouo",
+    "wagrouplinknotfound": "Where is group link" ,
+    "notextfordel" : "Give me a message for delete",
+    "invalidwagrouplink": "Link Invalid, Please Send a valid whatsapp Group Link!",
+    "groupjoinsuccess": "*Successfuly joined ✅*",
+    "groupjoinerror": "Error in Joining Group ❗",
+    "testingping": "Testing Ping...",
+    "needbotadmins": "Bot must have admin in this group!!",
+    "nouserforpromote": "Which user am I need to promote??",
+    "nouserforkick": "Which user am I need to kick??",
+    "nouserforadd": "Which user am I need to add??",
+    "userremoved": "*User has been kicked out of the group!*",
+    "nouserfordemote": "Which user am I need to demote??",
+    "activatbotingroup": "Bot activated for this group",
+    "deactivatbotingroup": "Bot deactivated for this group",
+    "devoffsetting": "This setting turned off by devoloper",
+    "sudoadded": "Bot activated for this user",
+    "sudoremoved": "Bot deactivated for this user",
+    "databasereset": "Downloads database has reset",
+    "datelimit": "datelimit applied for this user",
+    "menuhead": "*DIMENSION-X*"
+  },
+
+  "ImgUrls": {
+    "imagenotfound": "https://telegra.ph/file/8dd30f52e0e1b3d8f72c9.jpg",
+    "imagesearch": "https://telegra.ph/file/dcf25dd5c3564f71cf759.jpg",
+    "imageconnect": "https://telegra.ph/file/1f7cb4b2e5ce9cdfb94bf.jpg",
+    "menulogo": "https://telegra.ph/file/e8eb561f394d4a0c214f7.jpg",
+    "alivelogo": "https://telegra.ph/file/1f7cb4b2e5ce9cdfb94bf.jpg"
+  }
+}
